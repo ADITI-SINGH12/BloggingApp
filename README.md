@@ -7,5 +7,5 @@ Blog Application using spring boot realtime rest apis, spring security, JWT toke
 ## Enhanced Entity-Relationship(EER Diagram): 
 ## Screenshots
 
-![App Screenshot]("/blogging/EERDiagram.png")
+![App Screenshot](/EERDiagram.png)
 
